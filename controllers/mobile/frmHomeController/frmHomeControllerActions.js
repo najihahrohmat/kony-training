@@ -156,6 +156,11 @@ define({
         var self = this;
         this.setData();
     },
+    AS_FlexContainer_i7890e304521434fa4c0e3a6c85113fc: function AS_FlexContainer_i7890e304521434fa4c0e3a6c85113fc(eventobject) {
+        var self = this;
+        var ntf = new kony.mvc.Navigation("frmLogin");
+        ntf.navigate();
+    },
     AS_FlexContainer_fd4bf78a3aca45e381be66082400e394: function AS_FlexContainer_fd4bf78a3aca45e381be66082400e394(eventobject) {
         var self = this;
 

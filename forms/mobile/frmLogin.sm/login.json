@@ -46,6 +46,7 @@
             }
         },
         "facebookSource": "fbicon.png",
+        "ide_loginSuccessEvent": "AS_UWI_c777c7c3da6c4a75aea436582e023c44",
         "linkedinCenterX": {
             "Default": {
                 "type": "string",

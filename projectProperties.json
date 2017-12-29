@@ -197,7 +197,7 @@
     },
     "wap_spaipad_fontsize": "17",
     "mwportkey": "",
-    "cordovaModified": "false",
+    "cordovaModified": false,
     "watchos_watchMarketing1x": "",
     "mwhttpsportkey": "",
     "wap_bb440_fontsize": "15",
@@ -219,7 +219,7 @@
     "enableIdForAutomation": false,
     "desktopwebbasefontsize": "16",
     "mfappguid": {
-        "cbd7af2e-2fec-4dc1-bbf0-8bf8cc8137a9": "406a824e-9773-4871-97d2-53f55f6703c9"
+        "cbd7af2e-2fec-4dc1-bbf0-8bf8cc8137a9": "95107497-63ff-476a-9377-05dff8a634bb"
     },
     "wap_android240_fontsize": "10",
     "wap_spaandroidtabldpi_fontsize": "14",
