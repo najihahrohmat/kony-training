@@ -57,7 +57,8 @@
         "loginSuccessEvent": "AS_UWI_efb81306f1904ddc893d359c80bf18f4",
         "logoSource": "kony_travel_logo.png",
         "office365Login": false,
-        "sknbtnLogin": "s5ff11d63bad4cd2847c2b040b5335ad"
+        "sknbtnLogin": "s5ff11d63bad4cd2847c2b040b5335ad",
+        "socialBackground": "s0dae69118d74f42ab0969270cf672b4"
     },
     "id": "login",
     "info": null,
