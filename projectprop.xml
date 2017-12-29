@@ -353,7 +353,7 @@
     <attributes name="wp10tileUpdateRecurrenceKey" value=""/>
     <attributes name="win6xj2meonlysupported" value="false"/>
     <attributes name="desktopwebfavico" value=""/>
-    <attributes name="winmobileguidkey" value=""/>
+    <attributes name="winmobileguidkey" value="c3fde702-55d3-423c-85fe-7452ad00c133"/>
     <attributes name="Contacts" value="true"/>
     <attributes name="access_internet" value="true"/>
     <attributes name="ACCESS_MOCK_LOCATION" value="false"/>
@@ -433,7 +433,7 @@
     <attributes name="genericexceptionalert" value="false"/>
     <attributes name="APPLICATION_THEME" value="default"/>
     <attributes name="winphn81bgagentnamespace" value=""/>
-    <attributes name="wp8packagepublisheridkey" value=""/>
+    <attributes name="wp8packagepublisheridkey" value="af723848-f17a-4b59-a97c-9e7db22cdd4d"/>
     <attributes name="location" value="false"/>
     <attributes name="winphn10bgagentclassname" value=""/>
     <attributes name="disablehttpskey" value="false"/>
