@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "44%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "9dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbff99056ca64fd4a50875db1360876b",
+    "_src_": "menu_icon.png",
+    "_top_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "44%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "uwubd6e642cd64479996e9ff61e68a1d3c",
+        "templateType": "userwidgets",
+        "topLevelBox": null
+    },
+    "id": "flxMenuBtn",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "g95fe68f91d04ce8a0663510ce0e2c6a",
+    "name": "kony.ui.Image2",
+    "parent": "FlexContainer0gcf00ae88d3744",
+    "pf": "userwidgetmodel",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

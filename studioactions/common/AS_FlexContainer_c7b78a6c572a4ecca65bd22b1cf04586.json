@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_c7b78a6c572a4ecca65bd22b1cf04586": {
+        "id": "AS_FlexContainer_c7b78a6c572a4ecca65bd22b1cf04586",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_b72d490301104f83a3663d3623bbace2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.store.setItem(\"inputType\",\"social\");\nthis.invokeIdentityService(\"reusableLinkedinLogin\");\n",
+            "callbackType": null
+        }]
+    }
+}

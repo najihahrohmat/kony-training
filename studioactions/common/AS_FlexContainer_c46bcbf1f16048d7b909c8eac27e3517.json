@@ -1,0 +1,22 @@
+{
+    "AS_FlexContainer_c46bcbf1f16048d7b909c8eac27e3517": {
+        "id": "AS_FlexContainer_c46bcbf1f16048d7b909c8eac27e3517",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "uwuf6e3557d18e4dac8ff79ade6a3b1f25",
+            "type": "userwidgets",
+            "KUID": "uf6e3557d18e4dac8ff79ade6a3b1f25"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_aeb2259c3e4942a0a76c7a5131e7abd2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(this.view.lblPassword.top==\"23%\"){\n  this.view.flxLblPassword.isVisible=false;\n  this.invokeTouch(this.view.lblPassword,\"16%\");\n}\nthis.view.forceLayout();",
+            "callbackType": null
+        }]
+    }
+}

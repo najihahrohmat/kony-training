@@ -1,0 +1,95 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "sc321105e9de4329be24ef13c44cf7fd",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": true,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "FlexContainer0gcf00ae88d3744": {
+            "__events__": {
+                "ide_onClick": "AS_FlexContainer_fa80a66867124d4d8a560cb129522b7a"
+            },
+            "__info__": {
+                "kuid": "hcaf5968fe0d4636a9a11bda15a683ec",
+                "srcKUID": "e34d7825497a4dce8440c8bd74d0f04d",
+                "wType": "FlexContainer"
+            }
+        },
+        "appMainHeader": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "ac84657781e34cde8d5a116b2e5996ec",
+                "srcKUID": "c68ec36c61674d3c8faadf47075f4b14",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxMenuBtn": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f04865f35ef94f0ab97dc6170991ba84",
+                "srcKUID": "g95fe68f91d04ce8a0663510ce0e2c6a",
+                "wType": "Image"
+            },
+            "vizProps": {
+                "lock": false
+            }
+        },
+        "lblHeaderTitle": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "aaa689f0202e4de0a2835f92f6c736c3",
+                "srcKUID": "ff9681ccef5e4be48053edb58a2e25e8",
+                "wType": "Label"
+            }
+        }
+    },
+    "id": "appMainHeader",
+    "info": null,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "ac84657781e34cde8d5a116b2e5996ec",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxHomeContent",
+    "pf": "frmHome",
+    "snaptogrid": true,
+    "sourceUserWidget": "c68ec36c61674d3c8faadf47075f4b14",
+    "wType": "UserWidgetInstance"
+}

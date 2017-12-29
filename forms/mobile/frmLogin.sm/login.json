@@ -1,0 +1,74 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s248256415d546918f33c8adbbe458db",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "data": {
+        "facebookCenterX": {
+            "Default": {
+                "type": "string",
+                "value": "40%"
+            }
+        },
+        "facebookSource": "fbicon.png",
+        "linkedinCenterX": {
+            "Default": {
+                "type": "string",
+                "value": "60%"
+            }
+        },
+        "linkedinSource": "linkedinicon.png",
+        "loginCardBackground": "sf534403a38f49a782e9e4244af9f56a",
+        "loginSuccessEvent": "AS_UWI_efb81306f1904ddc893d359c80bf18f4",
+        "logoSource": "kony_travel_logo.png",
+        "office365Login": false,
+        "sknbtnLogin": "s5ff11d63bad4cd2847c2b040b5335ad"
+    },
+    "id": "login",
+    "info": null,
+    "isvisible": true,
+    "kuid": "fbce57dc8a68431fb9d087954a5b44fe",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "frmLogin",
+    "pf": "frmLogin",
+    "snaptogrid": true,
+    "sourceUserWidget": "cd4834da3fd340b8a65f483ef9d593a7",
+    "wType": "UserWidgetInstance"
+}

@@ -1,0 +1,186 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        [
+            {
+                "imgSectionIcon": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "plane_icon_color.png"
+                },
+                "lblSectionBar": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "2 Upcoming Flights"
+                }
+            },
+            [
+                {
+                    "lblFLigthDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Friday, 12 Sep 2017"
+                    },
+                    "lblFlightInfo": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "KUL-IND"
+                    }
+                },
+                {
+                    "lblFLigthDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Saturday, 13 Sep 2017"
+                    },
+                    "lblFlightInfo": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "KUL-MED"
+                    }
+                },
+                {
+                    "lblFLigthDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Sunday, 14 Sep 2017"
+                    },
+                    "lblFlightInfo": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "KUL-CMB"
+                    }
+                }
+            ]
+        ],
+        [
+            {
+                "imgSectionIcon": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "hotel_icon_color.png"
+                },
+                "lblSectionBar": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "9 Upcoming Hotel Nights"
+                }
+            },
+            [
+                {
+                    "lblFLigthDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Tue, Sep 12 - Sat, Sep 16"
+                    },
+                    "lblFlightInfo": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Western Birmingham"
+                    }
+                },
+                {
+                    "lblFLigthDate": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Sat, Sep 16 - Thu, Sep 21"
+                    },
+                    "lblFlightInfo": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Sheraton Atlanta Downtown"
+                    }
+                }
+            ]
+        ]
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "93dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "counter": "11",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": true,
+    "id": "segUpcomingTrips",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "c493b73a084045968c47d2f4d7c3d4ae",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxScrMainContainer",
+    "pf": "frmHome",
+    "retainselection": false,
+    "rowTemplateId": "d0b5bc09e8b14ebfbbc0d1b1e7c17a5c",
+    "rowcounter": 1,
+    "rowfocusskin": "sf1bd455bc7d4d85b6e3d7499fd4d6fa",
+    "rowskin": "sc2c23045e9e425c8a1760c4dc72f68e",
+    "rowtemplate": "flxBookedTrips",
+    "screenlevelwidget": false,
+    "seccounter": 1,
+    "sectionHeaderTemplateId": "cc3e08dd45e14fe7b0b0def095fdd39c",
+    "sectionheaderskin": "sd97edcc12814f58b1d9004682e0a4cb",
+    "sectionheadertemplate": "flxSegSectionBar",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxBookedTrips": "flxBookedTrips",
+        "flxSectionIcon": "flxSectionIcon",
+        "flxSegSectionBar": "flxSegSectionBar",
+        "imgSectionIcon": "imgSectionIcon",
+        "lblFLigthDate": "lblFLigthDate",
+        "lblFlightInfo": "lblFlightInfo",
+        "lblSectionBar": "lblSectionBar"
+    },
+    "zindex": 10
+}

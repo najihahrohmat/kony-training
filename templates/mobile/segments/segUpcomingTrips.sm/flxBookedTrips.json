@@ -1,0 +1,51 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s3756a2d6b6e423ea6ab64015d938451",
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "lblFlightInfo",
+        "lblFLigthDate"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "mobile",
+            "name": "flxBookedTripsController"
+        }
+    },
+    "enablescrolling": true,
+    "id": "flxBookedTrips",
+    "info": null,
+    "isvisible": true,
+    "kuid": "haeeead8b1e1465c878fb273d1539dd2",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "segUpcomingTrips",
+    "pf": "segUpcomingTrips",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}
