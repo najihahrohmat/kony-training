@@ -408,7 +408,7 @@
     <attributes name="enablesearchbar" value="false"/>
     <attributes name="tcandroid480basefontsize" value="16"/>
     <attributes name="WRITE_SETTINGS" value="false"/>
-    <attributes name="cloud_account_guid" value="cbd7af2e-2fec-4dc1-bbf0-8bf8cc8137a9"/>
+    <attributes name="cloud_account_guid" value="d3a9c3cd-f000-4a60-8488-96165bd5a233"/>
     <attributes name="statusBarHidden" value="false"/>
     <attributes name="andmaxsdkkey" value="None"/>
     <attributes name="wp10chat" value="false"/>
@@ -436,7 +436,7 @@
     <attributes name="wp8packagepublisheridkey" value="af723848-f17a-4b59-a97c-9e7db22cdd4d"/>
     <attributes name="location" value="false"/>
     <attributes name="winphn10bgagentclassname" value=""/>
-    <attributes name="cloud_url" value="http://172.30.81.69:8080/admin"/>
+    <attributes name="cloud_url" value="https://m100021304001.konycloud.com"/>
     <attributes name="disablehttpskey" value="false"/>
     <attributes name="Music_Library" value="true"/>
     <attributes name="Location" value="true"/>
@@ -475,11 +475,11 @@
     <attributes name="win8bgagentpath" value=""/>
     <attributes name="ID_CAP_IDENTITY_USER" value="true"/>
     <attributes name="wp10voipCall" value="false"/>
-    <attributes name="cloud_env_GUID" value="28db2973-19e2-41ff-9e7a-baff3f869a28"/>
+    <attributes name="cloud_env_GUID" value="46cb04a5-317c-444e-8d33-6c68bded432c"/>
     <attributes name="androidInstallLocnPref" value="false"/>
     <attributes name="android_allowselfsignedcertificates" value="None"/>
     <attributes name="userAccountInformation" value="false"/>
-    <attributes name="cloud_env_name" value="KonyAccount-LocalDevEnv"/>
+    <attributes name="cloud_env_name" value="rhb - najihah_rohmat-M100021304001"/>
     <attributes name="tcbb480basefontsize" value="17"/>
     <attributes name="SET_PREFERRED_APPLICATIONS" value="false"/>
     <attributes name="WP8_ID_CAP_MICROPHONE" value="true"/>
@@ -549,7 +549,7 @@
     <attributes name="wp81spackagedisplaynamekey" value="Training"/>
     <attributes name="windowsmapkey" value=""/>
     <attributes name="bb10keystorepassword" value=""/>
-    <attributes name="cloud_account_id" value="100000002"/>
+    <attributes name="cloud_account_id" value="100021304"/>
     <attributes name="Enterprise_Authentication" value="true"/>
     <attributes name="BATTERY_STATS" value="false"/>
     <attributes name="internetClient" value="false"/>

@@ -2,6 +2,7 @@ define({
     /*
       This is an auto generated file and any modifications to it may result in corruption of the action sequence.
     */
+    /** onClick defined for FlexContainer0gcf00ae88d3744 **/
     AS_FlexContainer_fa80a66867124d4d8a560cb129522b7a: function AS_FlexContainer_fa80a66867124d4d8a560cb129522b7a(eventobject) {
         var self = this;
 
@@ -152,15 +153,18 @@ define({
             "animationEnd": MOVE_ACTION____j1088ecb40894d348e17c5fc9114b6cc_Callback
         });
     },
+    /** onSuccess defined for crdTravelAds **/
     AS_CordovaBrowser_e77ceca12f4046a4afd5810353860bf3: function AS_CordovaBrowser_e77ceca12f4046a4afd5810353860bf3(eventobject) {
         var self = this;
         this.setData();
     },
+    /** onClick defined for flxLogout **/
     AS_FlexContainer_i7890e304521434fa4c0e3a6c85113fc: function AS_FlexContainer_i7890e304521434fa4c0e3a6c85113fc(eventobject) {
         var self = this;
         var ntf = new kony.mvc.Navigation("frmLogin");
         ntf.navigate();
     },
+    /** onClick defined for flxMenuOverlay **/
     AS_FlexContainer_fd4bf78a3aca45e381be66082400e394: function AS_FlexContainer_fd4bf78a3aca45e381be66082400e394(eventobject) {
         var self = this;
 
