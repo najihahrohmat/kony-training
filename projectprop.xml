@@ -124,7 +124,7 @@
     <attributes name="wp10pfxkey" value=""/>
     <attributes name="ACCESS_CHECKIN_PROPERTIES" value="false"/>
     <attributes name="MOUNT_FORMAT_FILESYSTEMS" value="false"/>
-    <attributes name="lastmodifiedtime" value="1514268139462"/>
+    <attributes name="lastmodifiedtime" value="1514533121991"/>
     <attributes name="wp10microphone" value="false"/>
     <attributes name="wp10backgroundMediaPlayback" value="false"/>
     <attributes name="ID_REQ_NFC" value="false"/>
@@ -436,6 +436,7 @@
     <attributes name="wp8packagepublisheridkey" value="af723848-f17a-4b59-a97c-9e7db22cdd4d"/>
     <attributes name="location" value="false"/>
     <attributes name="winphn10bgagentclassname" value=""/>
+    <attributes name="cloud_url" value="http://172.30.81.69:8080/admin"/>
     <attributes name="disablehttpskey" value="false"/>
     <attributes name="Music_Library" value="true"/>
     <attributes name="Location" value="true"/>
@@ -474,9 +475,11 @@
     <attributes name="win8bgagentpath" value=""/>
     <attributes name="ID_CAP_IDENTITY_USER" value="true"/>
     <attributes name="wp10voipCall" value="false"/>
+    <attributes name="cloud_env_GUID" value="28db2973-19e2-41ff-9e7a-baff3f869a28"/>
     <attributes name="androidInstallLocnPref" value="false"/>
     <attributes name="android_allowselfsignedcertificates" value="None"/>
     <attributes name="userAccountInformation" value="false"/>
+    <attributes name="cloud_env_name" value="KonyAccount-LocalDevEnv"/>
     <attributes name="tcbb480basefontsize" value="17"/>
     <attributes name="SET_PREFERRED_APPLICATIONS" value="false"/>
     <attributes name="WP8_ID_CAP_MICROPHONE" value="true"/>
@@ -514,7 +517,7 @@
     <attributes name="WP8_ID_CAP_WALLET" value="false"/>
     <attributes name="wp8iconicmediumkey" value=""/>
     <attributes name="wp8packageversionkey" value=""/>
-    <attributes name="windows10guid" value=""/>
+    <attributes name="windows10guid" value="c3fde702-55d3-423c-85fe-7452ad00c133"/>
     <attributes name="wp10toastcapablekey" value="Not set"/>
     <attributes name="WRITE_APN_SETTINGS" value="false"/>
     <attributes name="desktopwebwidthoption" value="Percentage"/>
@@ -578,8 +581,5 @@
     <attributes name="build" value="debug"/>
     <attributes name="certs_key_store_type" value="JKS"/>
     <attributes name="spaandroidtab800basefontsize" value="14"/>
-    <attributes name="cloud_url" value="http://172.30.81.69:8080/admin"/>
-    <attributes name="cloud_env_name" value="KonyAccount-LocalDevEnv"/>
-    <attributes name="cloud_env_GUID" value="28db2973-19e2-41ff-9e7a-baff3f869a28"/>
     <attributes name="defaultlocalekey" value="en_US"/>
 </properties>
