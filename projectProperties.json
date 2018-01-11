@@ -1,6 +1,5 @@
 {
     "APPLICATION_THEME": "default",
-    "accountCloudGuid": "d3a9c3cd-f000-4a60-8488-96165bd5a233",
     "appaddrkey": "",
     "appidkey": "Training",
     "appmenu": {
@@ -188,8 +187,7 @@
     },
     "mfappguid": {
         "b358d901-393e-4b6f-857c-5acbd08978f7": "813360d8-bdce-4056-a1f3-50e0976371bf",
-        "cbd7af2e-2fec-4dc1-bbf0-8bf8cc8137a9": "95107497-63ff-476a-9377-05dff8a634bb",
-        "d3a9c3cd-f000-4a60-8488-96165bd5a233": "a6f59f3e-1a60-40b3-94e0-2a66e053d222"
+        "cbd7af2e-2fec-4dc1-bbf0-8bf8cc8137a9": "95107497-63ff-476a-9377-05dff8a634bb"
     },
     "mwaddrkey": "",
     "mwhttpsportkey": "",
@@ -201,16 +199,7 @@
         "isEnableJSContaineriOS": true
     },
     "project.type": "js",
-    "projectCloudGuid": "fa6e3edc-967d-4a75-aefe-272f490e6efe",
     "project_version": "sprint30",
-    "prototype": {
-        "createdOn": "2018-01-10T03:01:12.418Z",
-        "createdById": "8a48ef9a-d061-4825-b773-b369d4468716",
-        "createdBy": "mr cactus",
-        "shareGuid": "RUP35",
-        "resourceId": "17dbb4a9-f8de-4eb6-bb2e-70c844c87dd7",
-        "PublishMode": "public"
-    },
     "referenceWidth": "375",
     "startupformkey": "bcbe4b2c13f24b80848c5377c7af0b22",
     "statusBarHidden": "false",
